@@ -46,8 +46,7 @@ public class Hits : MonoBehaviour
         Points.Add(new Vector2(10, 53));
         Points.Add(new Vector2(8, 53));
         Points.Add(new Vector2(8, 53));
-
-
+        
         //Finding max and min (for normalization)
         /*
         float max = Points[0].x;
